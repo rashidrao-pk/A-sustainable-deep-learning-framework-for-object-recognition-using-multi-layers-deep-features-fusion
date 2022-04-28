@@ -31,6 +31,18 @@ entropy based selection on the final fused vector instead of applying entropy in
 
 
 
+# Results
+
+![Conf Mat Caltech 5000 Fused ESD _ Positive Pred Values](https://user-images.githubusercontent.com/25412736/165831524-f989235f-f604-4b17-9089-ca1d093cd7eb.PNG)
+Caltech Dataset Results
+
+![ESD_Butterfliess_Fused](https://user-images.githubusercontent.com/25412736/165831581-dc10ce5f-bd96-4133-938e-74594b7c2a5f.JPG)
+Butterflies Dataset Results
+
+![M-KNN_Birds_Fused](https://user-images.githubusercontent.com/25412736/165831606-3da793ba-9eca-4e54-8e24-1fdb0dd461b4.JPG)
+Birds Dataset Results
+
+
 Please cite us, if you use these codes , Codes written and used for Object Detection and Classifications paper
 <br>
 contact us if facing any issue<br>
